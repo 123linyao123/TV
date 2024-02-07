@@ -103,16 +103,16 @@
     {
       "url": "http://tvkj.top/动漫频道/api.json",
       "name": "🚀动漫频道"
-       
- {
-                                                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qaz1371041/tvbox/main/18.json",
-                                                "name": "qaz1371041_18"
-                                },
-                                {
-                                                "url": "https://pan.shangui.cc/f/myVAfb/%E5%A4%A7%E4%BA%BA%E5%BD%B1%E8%A7%86.json",
-                                                "name": "🌹大人影视"
-                                },
-                                {
+   },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qaz1371041/tvbox/main/18.json",
+      "name": "qaz1371041_18"
+      },
+       {
+        "url": "https://pan.shangui.cc/f/myVAfb/%E5%A4%A7%E4%BA%BA%E5%BD%B1%E8%A7%86.json",
+        "name": "🌹大人影视"
+         },
+         {
                                                 "url": "https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json",
                                                 "name": "🌹经典在线"
                                 },
