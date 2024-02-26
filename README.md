@@ -87,8 +87,9 @@ Github 增强 - 高速下载https://greasyfork.org/zh-CN/scripts/412245
 
 `https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json`  
 
-`https://purge.jsdelivr.net/gh/`  
-
+`https://purge.jsdelivr.net/gh/` 
+### 2024 Github 静态加速  
+`https://mirror.ghproxy.com/`
 ------
 搜集一些TV频道等信息, 方便使用.
 
