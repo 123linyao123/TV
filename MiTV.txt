@@ -20,21 +20,6 @@
 重温经典频,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 CCTV13-新闻,http://live-play.cctvnews.cctv.com/cctv/merge_cctv13.flv
 
-CCTV1-综合,http://175.0.50.196:8899/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-财经,http://175.0.50.196:8899/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3-综艺,http://175.0.50.196:8899/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4-国际,http://175.0.50.196:8899/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5-体育,http://175.0.50.196:8899/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6-电影,http://175.0.50.196:8899/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7-军农,http://175.0.50.196:8899/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8-电视剧,http://175.0.50.196:8899/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9-纪录,http://175.0.50.196:8899/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10-科教,http://175.0.50.196:8899/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11-戏曲,http://175.0.50.196:8899/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12-社会与法,http://175.0.50.196:8899/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13-新闻,http://175.0.50.196:8899/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14-少儿,http://175.0.50.196:8899/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15-音乐,http://175.0.50.196:8899/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV1-综合,http://58.210.23.42:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
