@@ -1,0 +1,256 @@
+{
+  "sites": [
+    {
+      "key": "DG音乐仓",
+      "name": "🎤晓宇┃音乐专线",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "jar": "./jar/fty.jar",
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./ext/ych.txt"
+    },
+    {
+      "key": "演唱会",
+      "name": "💛晓宇|演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jar/fty.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./ext/演唱会.txt"
+    },
+    {
+      "key": "短剧",
+      "name": "💛晓宇|乐器大全",
+      "type": 3,
+      "api": "csp_Bili",
+     "jar": "./jar/fty.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./ext/乐器大全.txt"
+    },
+    {
+      "key": "Iktv",
+      "name": "🎤晓宇|KTV点歌台",
+      "type": 3,
+      "api": "csp_WexIktv",
+      "jar": "./jar/wex.txt",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "MTV",
+      "name": "💛晓宇┃明星MV",
+      "type": 3,
+      "api": "csp_Bili",
+    "jar": "./jar/fty.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./ext/MTV.txt"
+    },
+    {
+      "key": "Wexqingfengdj",
+      "name": "🎼晓宇┃摇头舞曲",
+      "type": 3,
+      "api": "csp_Wexqingfengdj",
+      "jar": "./jar/wex.txt",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "酷奇",
+      "name": "🎤晓宇┃酷奇MV",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js"
+    },
+    {
+      "key": "Wexergeduoduo",
+      "name": "👼晓宇|多多儿歌",
+      "type": 3,
+      "api": "csp_Wexergeduoduo",
+      "jar": "./jar/wex.txt",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      }
+    },
+    {
+      "key": "Wexbaobaobashi",
+      "name": "👼晓宇|宝宝儿歌",
+      "type": 3,
+      "api": "csp_Wexbaobaobashi",
+      "jar": "./jar/wex.txt",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      }
+    },
+    {
+      "key": "Wexbeiwa",
+      "name": "👼晓宇|贝贝儿歌",
+      "type": 3,
+      "api": "csp_Wexbeiwa",
+       "jar": "./jar/wex.txt",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      }
+    },
+    {
+      "key": "Wextuxiaobei",
+      "name": "👼晓宇|兔兔儿歌",
+      "type": 3,
+      "api": "csp_Wextuxiaobei",
+       "jar": "./jar/wex.txt",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      }
+    },
+    {
+      "key": "MV",
+      "name": "💚晓宇|梨园戏曲专线",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jar/fty.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./ext/梨园行.txt"
+    },
+    {
+      "key": "drpy_js_蜻蜓FM",
+      "name": "💃晓宇┃蜻蜓FM",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蜻蜓FM.js",
+      "playerType": "2"
+    },
+    {
+      "key": "歌舞",
+      "name": "💃晓宇|歌舞合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jar/fty.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./ext/歌舞.txt"
+    },
+    {
+      "key": "Wextangdou",
+      "name": "💃晓宇|广场舞教学",
+      "type": 3,
+      "api": "csp_Wextangdou",
+      "jar": "./jar/wex.txt",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      }
+    },
+    {
+      "key": "push_agent",
+      "name": "买零食，淘宝搜店铺晓宇零食",
+      "type": 3,
+      "api": "csp_Push",
+      "playerType": "1",
+      "searchable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    }
+  ],
+  "parses": [
+    {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "肥猫最可爱",
+      "type": 1,
+      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    }
+  ],
+  "lives": [
+    {
+      "name": "DJ舞曲",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://9524.kstore.space/音乐/打碟舞曲.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
